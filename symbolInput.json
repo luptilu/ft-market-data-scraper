@@ -1,0 +1,157 @@
+[
+  {
+    "symbolInput": "FTSE:FSI",
+    "basic": {
+      "symbol": "FTSE:FSI",
+      "name": "FTSE 100 Index",
+      "exchange": "FTSE International",
+      "exhangeCode": "FSI",
+      "bridgeExchangeCode": "GBFT",
+      "currency": "GBP"
+    },
+    "quote": {
+      "lastPrice": 6826.150000000001,
+      "openPrice": 6885.2300000000005,
+      "high": 6916.9400000000005,
+      "low": 6793.77,
+      "previousClosePrice": 6885.2300000000005,
+      "change1Day": -59.07999999999993,
+      "change1DayPercent": -0.8580686483966392,
+      "change1Week": -226.46999999999935,
+      "change1WeekPercent": -3.2111470630772585,
+      "timeStamp": "2022-10-12T15:35:30",
+      "volume": 973810425
+    }
+  },
+  {
+    "symbolInput": "INX:IOM",
+    "basic": {
+      "symbol": "INX:IOM",
+      "name": "S&P 500 INDEX",
+      "exchange": "CME:Index and Options Market",
+      "exhangeCode": "IOM",
+      "bridgeExchangeCode": "USCO",
+      "currency": "USD"
+    },
+    "quote": {
+      "lastPrice": 3586.37,
+      "openPrice": 3590.83,
+      "high": 3608.34,
+      "low": 3573.86,
+      "closePrice": 3588.84,
+      "previousClosePrice": 3588.84,
+      "change1Day": -2.4700000000002547,
+      "change1DayPercent": -0.06882446695869013,
+      "change1Week": -196.9100000000003,
+      "change1WeekPercent": -5.204742974350307,
+      "ask": 3586.9,
+      "bid": 3585.75,
+      "timeStamp": "2022-10-12T19:07:20",
+      "volume": 1613620000
+    }
+  },
+  {
+    "symbolInput": "EURUSD",
+    "basic": {
+      "symbol": "EURUSD",
+      "name": "Euro/US Dollar FX Spot Rate",
+      "exchange": "SOURCE IS A THOMSON REUTERS CONTRIBUTOR",
+      "exhangeCode": "RCT",
+      "bridgeExchangeCode": "CUX"
+    },
+    "quote": {
+      "lastPrice": 0.9706,
+      "openPrice": 0.9706,
+      "high": 0.9734,
+      "low": 0.9669000000000001,
+      "closePrice": 0.9705,
+      "previousClosePrice": 0.9705,
+      "change1Day": 9.999999999998899e-05,
+      "change1DayPercent": 0.010303967027304378,
+      "change1Week": -0.017699999999999938,
+      "change1WeekPercent": -1.790954163715465,
+      "ask": 0.9710000000000001,
+      "bid": 0.9706,
+      "timeStamp": "2022-10-12T18:39:00",
+      "volume": 0
+    }
+  },
+  {
+    "symbolInput": "GBPUSD",
+    "basic": {
+      "symbol": "GBPUSD",
+      "name": "UK Pound Sterling/US Dollar FX Spot Rate",
+      "exchange": "SOURCE IS A THOMSON REUTERS CONTRIBUTOR",
+      "exhangeCode": "RCT",
+      "bridgeExchangeCode": "CUX"
+    },
+    "quote": {
+      "lastPrice": 1.11,
+      "openPrice": 1.0966,
+      "high": 1.1133,
+      "low": 1.0925,
+      "closePrice": 1.0963,
+      "previousClosePrice": 1.0963,
+      "change1Day": 0.013700000000000045,
+      "change1DayPercent": 1.2496579403448003,
+      "change1Week": -0.02279999999999993,
+      "change1WeekPercent": -2.0127118644067736,
+      "ask": 1.1102,
+      "bid": 1.11,
+      "timeStamp": "2022-10-12T18:40:00",
+      "volume": 0
+    }
+  },
+  {
+    "symbolInput": "IB.1:IEU",
+    "basic": {
+      "symbol": "IB.1:IEU",
+      "name": "ICE Brent Crude Oil Front Month",
+      "exchange": "Intercontinental Exchange Europe",
+      "exhangeCode": "IEU",
+      "bridgeExchangeCode": "FTIE",
+      "currency": "USD"
+    },
+    "quote": {
+      "lastPrice": 92.52,
+      "openPrice": 93.72,
+      "high": 95.17,
+      "low": 91.56,
+      "closePrice": 92.45,
+      "previousClosePrice": 94.29,
+      "change1Day": -1.7700000000000102,
+      "change1DayPercent": -1.877187400572712,
+      "change1Week": -1.2700000000000102,
+      "change1WeekPercent": -1.354088922059932,
+      "ask": 92.54,
+      "askSize": 5,
+      "bid": 92.52,
+      "bidSize": 1,
+      "timeStamp": "2022-10-12T19:07:17",
+      "volume": 249229
+    }
+  },
+  {
+    "symbolInput": "JPMUS10YCMY:REU",
+    "basic": {
+      "symbol": "JPMUS10YCMY:REU",
+      "name": "US 10YR",
+      "exchange": "Thomson Reuters",
+      "exhangeCode": "REU",
+      "bridgeExchangeCode": "XXBR"
+    },
+    "quote": {
+      "lastPrice": 3.938,
+      "openPrice": 3.938,
+      "high": 3.938,
+      "low": 3.938,
+      "previousClosePrice": 3.883,
+      "change1Day": 0.05500000000000016,
+      "change1DayPercent": 1.416430594900854,
+      "change1Week": 0.19700000000000006,
+      "change1WeekPercent": 5.265971665330127,
+      "timeStamp": "2022-10-11T04:00:00",
+      "volume": 0
+    }
+  }
+]
