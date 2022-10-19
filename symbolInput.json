@@ -60,19 +60,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 0.9865,
+      "lastPrice": 0.9864,
       "openPrice": 0.9857,
-      "high": 0.9865,
+      "high": 0.9872000000000001,
       "low": 0.9857,
       "closePrice": 0.9852000000000001,
       "previousClosePrice": 0.9852000000000001,
-      "change1Day": 0.0012999999999999678,
-      "change1DayPercent": 0.13195290296386192,
-      "change1Week": 0.015900000000000025,
-      "change1WeekPercent": 1.6381619616731944,
-      "ask": 0.9869,
-      "bid": 0.9865,
-      "timeStamp": "2022-10-18T23:00:00",
+      "change1Day": 0.0011999999999999789,
+      "change1DayPercent": 0.12180267965895034,
+      "change1Week": 0.015800000000000036,
+      "change1WeekPercent": 1.6278590562538673,
+      "ask": 0.9866,
+      "bid": 0.9862000000000001,
+      "timeStamp": "2022-10-18T23:30:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.1334,
+      "lastPrice": 1.1351,
       "openPrice": 1.1318000000000001,
-      "high": 1.1335,
+      "high": 1.1357000000000002,
       "low": 1.1315,
       "closePrice": 1.1318000000000001,
       "previousClosePrice": 1.1318000000000001,
-      "change1Day": 0.0015999999999998238,
-      "change1DayPercent": 0.1413677328149694,
-      "change1Week": 0.02289999999999992,
-      "change1WeekPercent": 2.0621341737955805,
-      "ask": 1.1335,
-      "bid": 1.1334,
-      "timeStamp": "2022-10-18T23:00:00",
+      "change1Day": 0.0032999999999998586,
+      "change1DayPercent": 0.29157094893089397,
+      "change1Week": 0.024599999999999955,
+      "change1WeekPercent": 2.215218370103553,
+      "ask": 1.1347,
+      "bid": 1.1345,
+      "timeStamp": "2022-10-18T23:30:00",
       "volume": 0
     }
   },
@@ -119,8 +119,8 @@
       "previousClosePrice": 90.03,
       "change1Day": 0,
       "change1DayPercent": 0,
-      "change1Week": -3.769999999999996,
-      "change1WeekPercent": -4.019189765458418,
+      "change1Week": -2.3799999999999955,
+      "change1WeekPercent": -2.575478844280917,
       "timeStamp": "2022-10-18T21:59:59",
       "volume": 0
     }
