@@ -113,22 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 93.42,
+      "lastPrice": 93.60000000000001,
       "openPrice": 92.45,
       "high": 93.8,
       "low": 91,
       "closePrice": 93.5,
       "previousClosePrice": 92.38,
-      "change1Day": 1.0400000000000063,
-      "change1DayPercent": 1.125784801905181,
-      "change1Week": 1.960000000000008,
-      "change1WeekPercent": 2.143013339164671,
-      "ask": 93.59,
-      "askSize": 2,
+      "change1Day": 1.220000000000013,
+      "change1DayPercent": 1.3206321714656994,
+      "change1Week": 2.140000000000015,
+      "change1WeekPercent": 2.3398206866389843,
+      "ask": 93.60000000000001,
+      "askSize": 5,
       "bid": 93.19,
-      "bidSize": 2,
-      "timeStamp": "2022-10-21T21:26:50",
-      "volume": 197440
+      "bidSize": 1,
+      "timeStamp": "2022-10-21T21:59:55",
+      "volume": 197443
     }
   },
   {
