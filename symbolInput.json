@@ -61,11 +61,13 @@
     },
     "quote": {
       "lastPrice": 0.9860000000000001,
-      "openPrice": 0,
+      "openPrice": 0.9784,
+      "high": 0.9868,
+      "low": 0.9703,
       "closePrice": 0.9860000000000001,
       "previousClosePrice": 0.9860000000000001,
-      "change1Day": 0,
-      "change1DayPercent": 0,
+      "change1Day": 0.007699999999999929,
+      "change1DayPercent": 0.7869187531936566,
       "change1Week": 0.013900000000000134,
       "change1WeekPercent": 1.429894043822666,
       "ask": 0.9864,
@@ -133,16 +135,16 @@
       "bridgeExchangeCode": "XXBR"
     },
     "quote": {
-      "lastPrice": 4.226,
-      "openPrice": 4.226,
-      "high": 4.226,
-      "low": 4.226,
-      "previousClosePrice": 4.123,
-      "change1Day": 0.10299999999999976,
-      "change1DayPercent": 2.4981809362114906,
-      "change1Week": 0.2140000000000004,
-      "change1WeekPercent": 5.333998005982065,
-      "timeStamp": "2022-10-20T04:00:00",
+      "lastPrice": 4.216,
+      "openPrice": 4.216,
+      "high": 4.216,
+      "low": 4.216,
+      "previousClosePrice": 4.226,
+      "change1Day": -0.009999999999999787,
+      "change1DayPercent": -0.23663038334121597,
+      "change1Week": 0.20400000000000063,
+      "change1WeekPercent": 5.08474576271188,
+      "timeStamp": "2022-10-21T04:00:00",
       "volume": 0
     }
   }
