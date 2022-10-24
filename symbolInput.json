@@ -10,17 +10,17 @@
       "currency": "GBP"
     },
     "quote": {
-      "lastPrice": 7007.25,
+      "lastPrice": 7004.24,
       "openPrice": 6969.7300000000005,
-      "high": 7008.14,
+      "high": 7013.71,
       "low": 6914.66,
       "previousClosePrice": 6969.7300000000005,
-      "change1Day": 37.51999999999953,
-      "change1DayPercent": 0.5383278835765449,
-      "change1Week": 87.01000000000022,
-      "change1WeekPercent": 1.2573263355028181,
-      "timeStamp": "2022-10-24T11:39:10",
-      "volume": 189140222
+      "change1Day": 34.50999999999931,
+      "change1DayPercent": 0.4951411317224528,
+      "change1Week": 84,
+      "change1WeekPercent": 1.2138307341941899,
+      "timeStamp": "2022-10-24T12:49:19",
+      "volume": 229602992
     }
   },
   {
@@ -39,15 +39,15 @@
       "high": 3757.89,
       "low": 3647.42,
       "closePrice": 3752.75,
-      "previousClosePrice": 3665.78,
+      "previousClosePrice": 3752.75,
       "change1Day": 86.9699999999998,
       "change1DayPercent": 2.3724828003862695,
       "change1Week": 169.67999999999984,
       "change1WeekPercent": 4.735603825769517,
-      "ask": 3809.52,
-      "bid": 3701.13,
+      "ask": 3826.4500000000003,
+      "bid": 3728.9,
       "timeStamp": "2022-10-21T20:59:22",
-      "volume": 3006077000
+      "volume": 3006076801000
     }
   },
   {
@@ -60,19 +60,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 0.9820000000000001,
+      "lastPrice": 0.9835,
       "openPrice": 0.9856,
       "high": 0.9899,
       "low": 0.9808,
       "closePrice": 0.9860000000000001,
       "previousClosePrice": 0.9860000000000001,
-      "change1Day": -0.0040000000000000036,
-      "change1DayPercent": -0.4056795131845845,
-      "change1Week": -0.0019999999999998908,
-      "change1WeekPercent": -0.2032520325203141,
-      "ask": 0.9824,
-      "bid": 0.9820000000000001,
-      "timeStamp": "2022-10-24T11:20:00",
+      "change1Day": -0.0025000000000000577,
+      "change1DayPercent": -0.25354969574037095,
+      "change1Week": -0.0004999999999999449,
+      "change1WeekPercent": -0.05081300813007571,
+      "ask": 0.9839,
+      "bid": 0.9835,
+      "timeStamp": "2022-10-24T12:29:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.1275,
+      "lastPrice": 1.1296000000000002,
       "openPrice": 1.1354,
       "high": 1.1408,
       "low": 1.1275,
       "closePrice": 1.1302,
       "previousClosePrice": 1.1302,
-      "change1Day": -0.0027000000000001467,
-      "change1DayPercent": -0.23889577066007314,
-      "change1Week": -0.008199999999999985,
-      "change1WeekPercent": -0.7220216606498182,
-      "ask": 1.1279000000000001,
-      "bid": 1.1275,
-      "timeStamp": "2022-10-24T11:20:00",
+      "change1Day": -0.0005999999999999339,
+      "change1DayPercent": -0.053087949035563076,
+      "change1Week": -0.006099999999999772,
+      "change1WeekPercent": -0.5371136743858214,
+      "ask": 1.1300000000000001,
+      "bid": 1.1296000000000002,
+      "timeStamp": "2022-10-24T12:29:00",
       "volume": 0
     }
   },
@@ -113,22 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 92.69,
+      "lastPrice": 91.87,
       "openPrice": 93.59,
       "high": 94.27,
       "low": 91.22,
       "closePrice": 93.5,
       "previousClosePrice": 93.5,
-      "change1Day": -0.8100000000000023,
-      "change1DayPercent": -0.86631016042781,
-      "change1Week": 0.7099999999999937,
-      "change1WeekPercent": 0.7719069362904911,
-      "ask": 92.74,
-      "askSize": 5,
-      "bid": 92.72,
+      "change1Day": -1.6299999999999955,
+      "change1DayPercent": -1.7433155080213856,
+      "change1Week": -0.10999999999999943,
+      "change1WeekPercent": -0.11959121548162582,
+      "ask": 91.88,
+      "askSize": 2,
+      "bid": 91.86,
       "bidSize": 4,
-      "timeStamp": "2022-10-24T11:44:00",
-      "volume": 50411
+      "timeStamp": "2022-10-24T12:54:14",
+      "volume": 64129
     }
   },
   {
