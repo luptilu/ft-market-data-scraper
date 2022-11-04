@@ -10,17 +10,17 @@
       "currency": "GBP"
     },
     "quote": {
-      "lastPrice": 7285.4800000000005,
+      "lastPrice": 7313.95,
       "openPrice": 7188.63,
-      "high": 7293.39,
+      "high": 7318.34,
       "low": 7188.63,
       "previousClosePrice": 7188.63,
-      "change1Day": 96.85000000000036,
-      "change1DayPercent": 1.3472664471533569,
-      "change1Week": 237.8100000000004,
-      "change1WeekPercent": 3.3743066857557236,
-      "timeStamp": "2022-11-04T11:33:25",
-      "volume": 166126750
+      "change1Day": 125.31999999999971,
+      "change1DayPercent": 1.7433085302762794,
+      "change1Week": 266.27999999999975,
+      "change1WeekPercent": 3.778269981426482,
+      "timeStamp": "2022-11-04T12:38:25",
+      "volume": 214133694
     }
   },
   {
@@ -39,15 +39,15 @@
       "high": 3750.59,
       "low": 3698.15,
       "closePrice": 3719.89,
-      "previousClosePrice": 3759.69,
+      "previousClosePrice": 3719.89,
       "change1Day": -39.80000000000018,
       "change1DayPercent": -1.0585979163175736,
       "change1Week": -87.41000000000031,
       "change1WeekPercent": -2.2958527040159775,
-      "ask": 3801.64,
-      "bid": 3663.28,
+      "ask": 3774.55,
+      "bid": 3694.37,
       "timeStamp": "2022-11-03T21:23:40",
-      "volume": 2856235000
+      "volume": 2856234717000
     }
   },
   {
@@ -60,19 +60,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 0.9789,
+      "lastPrice": 0.9792000000000001,
       "openPrice": 0.9749000000000001,
-      "high": 0.9804,
+      "high": 0.9811000000000001,
       "low": 0.9743,
       "closePrice": 0.9751000000000001,
       "previousClosePrice": 0.9751000000000001,
-      "change1Day": 0.0037999999999999146,
-      "change1DayPercent": 0.38970362014151516,
-      "change1Week": -0.01760000000000006,
-      "change1WeekPercent": -1.7661816357250435,
-      "ask": 0.9793000000000001,
-      "bid": 0.9789,
-      "timeStamp": "2022-11-04T11:09:00",
+      "change1Day": 0.0040999999999999925,
+      "change1DayPercent": 0.420469695415854,
+      "change1Week": -0.017299999999999982,
+      "change1WeekPercent": -1.736076266934268,
+      "ask": 0.9796,
+      "bid": 0.9792000000000001,
+      "timeStamp": "2022-11-04T12:19:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.121,
+      "lastPrice": 1.1193,
       "openPrice": 1.1164,
       "high": 1.1249,
       "low": 1.1151,
       "closePrice": 1.1165,
       "previousClosePrice": 1.1165,
-      "change1Day": 0.0044999999999999485,
-      "change1DayPercent": 0.4030452306314329,
-      "change1Week": -0.0403,
-      "change1WeekPercent": -3.470248859037286,
-      "ask": 1.1214,
-      "bid": 1.121,
-      "timeStamp": "2022-11-04T11:09:00",
+      "change1Day": 0.0027999999999999137,
+      "change1DayPercent": 0.2507836990595534,
+      "change1Week": -0.04200000000000004,
+      "change1WeekPercent": -3.6166365280289363,
+      "ask": 1.1197000000000001,
+      "bid": 1.1193,
+      "timeStamp": "2022-11-04T12:19:00",
       "volume": 0
     }
   },
@@ -113,22 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 97.76,
+      "lastPrice": 98.01,
       "openPrice": 94.58,
-      "high": 97.89,
+      "high": 98.16,
       "low": 94.33,
       "closePrice": 94.67,
       "previousClosePrice": 94.67,
-      "change1Day": 3.0900000000000034,
-      "change1DayPercent": 3.2639695785359706,
-      "change1Week": 1.4500000000000028,
-      "change1WeekPercent": 1.5055549787145706,
-      "ask": 97.77,
-      "askSize": 1,
-      "bid": 97.75,
-      "bidSize": 6,
-      "timeStamp": "2022-11-04T11:38:24",
-      "volume": 101166
+      "change1Day": 3.3400000000000034,
+      "change1DayPercent": 3.5280447871553853,
+      "change1Week": 1.7000000000000028,
+      "change1WeekPercent": 1.7651334233205305,
+      "ask": 98.01,
+      "askSize": 4,
+      "bid": 97.99000000000001,
+      "bidSize": 7,
+      "timeStamp": "2022-11-04T12:43:26",
+      "volume": 120550
     }
   },
   {
