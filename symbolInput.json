@@ -72,7 +72,7 @@
       "change1WeekPercent": -1.8665328650276025,
       "ask": 0.9783000000000001,
       "bid": 0.9779,
-      "timeStamp": "2022-11-04T06:19:00",
+      "timeStamp": "2022-11-04T06:49:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.1215000000000002,
+      "lastPrice": 1.1226,
       "openPrice": 1.1164,
       "high": 1.1241,
       "low": 1.1151,
       "closePrice": 1.1165,
       "previousClosePrice": 1.1165,
-      "change1Day": 0.0050000000000001155,
-      "change1DayPercent": 0.4478280340349409,
-      "change1Week": -0.039799999999999836,
-      "change1WeekPercent": -3.4271936622750223,
-      "ask": 1.1219000000000001,
-      "bid": 1.1215000000000002,
-      "timeStamp": "2022-11-04T06:20:00",
+      "change1Day": 0.006099999999999994,
+      "change1DayPercent": 0.5463502015226148,
+      "change1Week": -0.03869999999999996,
+      "change1WeekPercent": -3.3324722293980846,
+      "ask": 1.1227,
+      "bid": 1.1226,
+      "timeStamp": "2022-11-04T06:49:00",
       "volume": 0
     }
   },
@@ -113,22 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 96.79,
+      "lastPrice": 96.73,
       "openPrice": 94.58,
       "high": 97,
       "low": 94.33,
       "closePrice": 94.67,
       "previousClosePrice": 94.67,
-      "change1Day": 2.1200000000000045,
-      "change1DayPercent": 2.2393577690926425,
-      "change1Week": 0.480000000000004,
-      "change1WeekPercent": 0.49839061364344717,
-      "ask": 96.81,
-      "askSize": 2,
-      "bid": 96.79,
-      "bidSize": 1,
-      "timeStamp": "2022-11-04T06:45:36",
-      "volume": 23664
+      "change1Day": 2.0600000000000023,
+      "change1DayPercent": 2.1759797190239802,
+      "change1Week": 0.4200000000000017,
+      "change1WeekPercent": 0.4360917869380144,
+      "ask": 96.74000000000001,
+      "askSize": 1,
+      "bid": 96.72,
+      "bidSize": 8,
+      "timeStamp": "2022-11-04T07:13:19",
+      "volume": 27083
     }
   },
   {
