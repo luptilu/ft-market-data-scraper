@@ -10,17 +10,17 @@
       "currency": "GBP"
     },
     "quote": {
-      "lastPrice": 7286.75,
+      "lastPrice": 7287.31,
       "openPrice": 7306.14,
       "high": 7306.26,
       "low": 7263.46,
       "previousClosePrice": 7306.14,
-      "change1Day": -19.390000000000327,
-      "change1DayPercent": -0.26539321721182907,
-      "change1Week": 142.60999999999967,
-      "change1WeekPercent": 1.9961814858051448,
-      "timeStamp": "2022-11-09T12:42:01",
-      "volume": 159827453
+      "change1Day": -18.829999999999927,
+      "change1DayPercent": -0.25772843115516436,
+      "change1Week": 143.17000000000007,
+      "change1WeekPercent": 2.004020077993993,
+      "timeStamp": "2022-11-09T13:35:25",
+      "volume": 178436381
     }
   },
   {
@@ -39,15 +39,15 @@
       "high": 3859.4,
       "low": 3786.28,
       "closePrice": 3828.11,
-      "previousClosePrice": 3806.8,
+      "previousClosePrice": 3828.11,
       "change1Day": 21.309999999999945,
       "change1DayPercent": 0.5597877482399901,
       "change1Week": -27.98999999999978,
       "change1WeekPercent": -0.7258629184927721,
-      "ask": 3902.4300000000003,
-      "bid": 3761.6800000000003,
+      "ask": 3855.8,
+      "bid": 3789.41,
       "timeStamp": "2022-11-08T22:03:03",
-      "volume": 2586670000
+      "volume": 2586669895000
     }
   },
   {
@@ -60,19 +60,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.0053,
+      "lastPrice": 1.0031,
       "openPrice": 1.0072,
       "high": 1.0088000000000001,
-      "low": 1.0035,
+      "low": 1.0031,
       "closePrice": 1.0072,
       "previousClosePrice": 1.0072,
-      "change1Day": -0.0019000000000000128,
-      "change1DayPercent": -0.18864177918983446,
-      "change1Week": 0.023400000000000087,
-      "change1WeekPercent": 2.383134738771778,
-      "ask": 1.0055,
-      "bid": 1.0053,
-      "timeStamp": "2022-11-09T12:20:00",
+      "change1Day": -0.0040999999999999925,
+      "change1DayPercent": -0.40706910246227085,
+      "change1Week": 0.021200000000000108,
+      "change1WeekPercent": 2.159079335981272,
+      "ask": 1.0035,
+      "bid": 1.0031,
+      "timeStamp": "2022-11-09T13:19:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.1457000000000002,
+      "lastPrice": 1.1420000000000001,
       "openPrice": 1.1541000000000001,
       "high": 1.1566,
       "low": 1.1420000000000001,
       "closePrice": 1.1536,
       "previousClosePrice": 1.1536,
-      "change1Day": -0.007899999999999796,
-      "change1DayPercent": -0.6848127600554609,
-      "change1Week": 0.006500000000000172,
-      "change1WeekPercent": 0.5705758426966443,
-      "ask": 1.1461000000000001,
-      "bid": 1.1457000000000002,
-      "timeStamp": "2022-11-09T12:19:00",
+      "change1Day": -0.011599999999999833,
+      "change1DayPercent": -1.00554785020803,
+      "change1Week": 0.0028000000000001357,
+      "change1WeekPercent": 0.2457865168539445,
+      "ask": 1.1425,
+      "bid": 1.1420000000000001,
+      "timeStamp": "2022-11-09T13:19:00",
       "volume": 0
     }
   },
@@ -113,22 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 93.8,
+      "lastPrice": 94.64,
       "openPrice": 95.17,
       "high": 95.65,
       "low": 93.61,
       "closePrice": 95.36,
       "previousClosePrice": 95.36,
-      "change1Day": -1.5600000000000023,
-      "change1DayPercent": -1.6359060402684589,
-      "change1Week": -1.7199999999999989,
-      "change1WeekPercent": -1.8006700167504177,
-      "ask": 93.81,
-      "askSize": 6,
-      "bid": 93.8,
-      "bidSize": 4,
-      "timeStamp": "2022-11-09T12:47:00",
-      "volume": 88909
+      "change1Day": -0.7199999999999989,
+      "change1DayPercent": -0.7550335570469787,
+      "change1Week": -0.8799999999999955,
+      "change1WeekPercent": -0.9212730318257909,
+      "ask": 94.65,
+      "askSize": 1,
+      "bid": 94.64,
+      "bidSize": 3,
+      "timeStamp": "2022-11-09T13:40:23",
+      "volume": 103295
     }
   },
   {
