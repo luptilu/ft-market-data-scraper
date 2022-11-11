@@ -44,10 +44,10 @@
       "change1DayPercent": 0.9240793960120111,
       "change1Week": 222.3800000000001,
       "change1WeekPercent": 5.897813316359685,
-      "ask": 4051.53,
-      "bid": 3908.48,
-      "timeStamp": "2022-11-11T21:13:41",
-      "volume": 3017665000
+      "ask": 4049.02,
+      "bid": 3913.71,
+      "timeStamp": "2022-11-11T21:20:01",
+      "volume": 3019519000
     }
   },
   {
@@ -70,9 +70,9 @@
       "change1DayPercent": 1.459639498432593,
       "change1Week": 0.03950000000000009,
       "change1WeekPercent": 3.9650672555711797,
-      "ask": 1.0361,
+      "ask": 1.0358,
       "bid": 1.0357,
-      "timeStamp": "2022-11-11T20:50:00",
+      "timeStamp": "2022-11-11T21:00:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.1839,
+      "lastPrice": 1.1844000000000001,
       "openPrice": 1.1714,
       "high": 1.1854,
       "low": 1.1648,
       "closePrice": 1.1713,
       "previousClosePrice": 1.1713,
-      "change1Day": 0.012599999999999945,
-      "change1DayPercent": 1.0757278237855328,
-      "change1Week": 0.04614999999999991,
-      "change1WeekPercent": 4.056251373324536,
-      "ask": 1.1843000000000001,
-      "bid": 1.1839,
-      "timeStamp": "2022-11-11T20:50:00",
+      "change1Day": 0.013100000000000112,
+      "change1DayPercent": 1.1184154358405285,
+      "change1Week": 0.04665000000000008,
+      "change1WeekPercent": 4.100197758734351,
+      "ask": 1.1846,
+      "bid": 1.1844000000000001,
+      "timeStamp": "2022-11-11T21:00:00",
       "volume": 0
     }
   },
@@ -123,12 +123,12 @@
       "change1DayPercent": 2.498131739084022,
       "change1Week": -2.739999999999995,
       "change1WeekPercent": -2.7746835443037923,
-      "ask": 96,
-      "askSize": 1,
-      "bid": 95.98,
-      "bidSize": 9,
-      "timeStamp": "2022-11-11T21:13:23",
-      "volume": 234441
+      "ask": 96.02,
+      "askSize": 5,
+      "bid": 96,
+      "bidSize": 27,
+      "timeStamp": "2022-11-11T21:26:22",
+      "volume": 234703
     }
   },
   {
