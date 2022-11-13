@@ -70,9 +70,9 @@
       "change1DayPercent": 0.16434648105182084,
       "change1Week": 0.03990000000000005,
       "change1WeekPercent": 4.005219835374428,
-      "ask": 1.0369000000000002,
+      "ask": 1.0370000000000001,
       "bid": 1.0361,
-      "timeStamp": "2022-11-13T19:04:00",
+      "timeStamp": "2022-11-13T19:30:00",
       "volume": 0
     }
   },
@@ -87,9 +87,7 @@
     },
     "quote": {
       "lastPrice": 1.1835,
-      "openPrice": 1.1835,
-      "high": 1.1835,
-      "low": 1.1835,
+      "openPrice": 0,
       "closePrice": 1.1835,
       "previousClosePrice": 1.1835,
       "change1Day": 0,
