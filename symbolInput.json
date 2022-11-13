@@ -63,7 +63,7 @@
       "lastPrice": 1.0352000000000001,
       "openPrice": 1.0352000000000001,
       "high": 1.0352000000000001,
-      "low": 1.0362,
+      "low": 1.0352000000000001,
       "closePrice": 1.0344,
       "previousClosePrice": 1.0344,
       "change1Day": 0.0008000000000001339,
@@ -117,11 +117,13 @@
       "openPrice": 93.84,
       "high": 96.92,
       "low": 93.69,
+      "closePrice": 95.99000000000001,
       "previousClosePrice": 95.99000000000001,
       "change1Day": 2.4200000000000017,
       "change1DayPercent": 2.59267195200343,
       "change1Week": -2.759999999999991,
       "change1WeekPercent": -2.7949367088607504,
+      "timeStamp": "2022-11-11T22:59:59",
       "volume": 238066
     }
   },
