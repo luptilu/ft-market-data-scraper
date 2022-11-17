@@ -60,19 +60,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.0378,
+      "lastPrice": 1.038,
       "openPrice": 1.0393000000000001,
       "high": 1.0398,
       "low": 1.0361,
       "closePrice": 1.0392000000000001,
       "previousClosePrice": 1.0392000000000001,
-      "change1Day": -0.0014000000000000679,
-      "change1DayPercent": -0.13471901462664237,
-      "change1Week": 0.016900000000000137,
-      "change1WeekPercent": 1.65540209618965,
-      "ask": 1.0382,
-      "bid": 1.0378,
-      "timeStamp": "2022-11-17T06:00:00",
+      "change1Day": -0.0012000000000000899,
+      "change1DayPercent": -0.11547344110855368,
+      "change1Week": 0.017100000000000115,
+      "change1WeekPercent": 1.6749926535410047,
+      "ask": 1.0384,
+      "bid": 1.038,
+      "timeStamp": "2022-11-17T06:19:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.1895,
+      "lastPrice": 1.1905000000000001,
       "openPrice": 1.1912,
       "high": 1.192,
       "low": 1.1868,
       "closePrice": 1.1908,
       "previousClosePrice": 1.1908,
-      "change1Day": -0.0013000000000000789,
-      "change1DayPercent": -0.1091703056768625,
-      "change1Week": 0.018000000000000016,
-      "change1WeekPercent": 1.5364916773367492,
-      "ask": 1.1899,
-      "bid": 1.1895,
-      "timeStamp": "2022-11-17T06:00:00",
+      "change1Day": -0.00029999999999996696,
+      "change1DayPercent": -0.025193147463887046,
+      "change1Week": 0.019000000000000128,
+      "change1WeekPercent": 1.6218523260776891,
+      "ask": 1.1907,
+      "bid": 1.1905000000000001,
+      "timeStamp": "2022-11-17T06:20:00",
       "volume": 0
     }
   },
@@ -123,12 +123,12 @@
       "change1DayPercent": -0.9153564505707456,
       "change1Week": -1.3299999999999983,
       "change1WeekPercent": -1.4248982215556012,
-      "ask": 92.01,
-      "askSize": 1,
-      "bid": 91.99,
-      "bidSize": 14,
-      "timeStamp": "2022-11-17T06:20:11",
-      "volume": 8811
+      "ask": 92.03,
+      "askSize": 2,
+      "bid": 92.01,
+      "bidSize": 3,
+      "timeStamp": "2022-11-17T06:42:39",
+      "volume": 9422
     }
   },
   {
