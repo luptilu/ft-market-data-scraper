@@ -10,17 +10,17 @@
       "currency": "GBP"
     },
     "quote": {
-      "lastPrice": 7409.2,
+      "lastPrice": 7413.38,
       "openPrice": 7346.54,
       "high": 7423.51,
       "low": 7343.5,
       "previousClosePrice": 7346.54,
-      "change1Day": 62.659999999999854,
-      "change1DayPercent": 0.8529185167439346,
-      "change1Week": 91.15999999999985,
-      "change1WeekPercent": 1.2456887363283045,
-      "timeStamp": "2022-11-18T13:25:27",
-      "volume": 315104667
+      "change1Day": 66.84000000000015,
+      "change1DayPercent": 0.9098160494600199,
+      "change1Week": 95.34000000000015,
+      "change1WeekPercent": 1.3028078556553413,
+      "timeStamp": "2022-11-18T13:38:26",
+      "volume": 324188360
     }
   },
   {
@@ -39,15 +39,15 @@
       "high": 3954.33,
       "low": 3906.54,
       "closePrice": 3946.56,
-      "previousClosePrice": 3958.79,
+      "previousClosePrice": 3946.56,
       "change1Day": -12.230000000000018,
-      "change1DayPercent": -0.308932779965596,
+      "change1DayPercent": -0.30893277996559604,
       "change1Week": -9.809999999999945,
       "change1WeekPercent": -0.24795456441131505,
-      "ask": 3978.79,
-      "bid": 3950.81,
+      "ask": 3986.1800000000003,
+      "bid": 3949.33,
       "timeStamp": "2022-11-17T22:13:41",
-      "volume": 2196880000
+      "volume": 2196879829000
     }
   },
   {
@@ -60,19 +60,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.0365,
+      "lastPrice": 1.0373,
       "openPrice": 1.036,
       "high": 1.0395,
       "low": 1.0343,
       "closePrice": 1.036,
       "previousClosePrice": 1.036,
-      "change1Day": 0.0004999999999999449,
-      "change1DayPercent": 0.04826254826254295,
-      "change1Week": 0.0010999999999998789,
-      "change1WeekPercent": 0.10623913463394619,
-      "ask": 1.0376,
-      "bid": 1.0365,
-      "timeStamp": "2022-11-18T13:09:00",
+      "change1Day": 0.0013000000000000789,
+      "change1DayPercent": 0.1254826254826331,
+      "change1Week": 0.0019000000000000128,
+      "change1WeekPercent": 0.18350395982229212,
+      "ask": 1.0374,
+      "bid": 1.0373,
+      "timeStamp": "2022-11-18T13:20:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.191,
+      "lastPrice": 1.1919,
       "openPrice": 1.1862000000000001,
       "high": 1.195,
       "low": 1.1859,
       "closePrice": 1.1862000000000001,
       "previousClosePrice": 1.1862000000000001,
-      "change1Day": 0.0047999999999999154,
-      "change1DayPercent": 0.4046535154274081,
-      "change1Week": 0.007300000000000084,
-      "change1WeekPercent": 0.616710315113634,
-      "ask": 1.1914,
-      "bid": 1.191,
-      "timeStamp": "2022-11-18T13:10:00",
+      "change1Day": 0.005699999999999816,
+      "change1DayPercent": 0.4805260495700401,
+      "change1Week": 0.008199999999999985,
+      "change1WeekPercent": 0.6927430936892781,
+      "ask": 1.192,
+      "bid": 1.1919,
+      "timeStamp": "2022-11-18T13:20:00",
       "volume": 0
     }
   },
@@ -113,22 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 87.86,
+      "lastPrice": 87.77,
       "openPrice": 90.10000000000001,
       "high": 90.63,
-      "low": 87.84,
+      "low": 87.73,
       "closePrice": 89.78,
       "previousClosePrice": 89.78,
-      "change1Day": -1.9200000000000017,
-      "change1DayPercent": -2.138560926709737,
-      "change1Week": -7.900000000000006,
-      "change1WeekPercent": -8.249791144527991,
-      "ask": 87.87,
-      "askSize": 6,
-      "bid": 87.85000000000001,
-      "bidSize": 10,
-      "timeStamp": "2022-11-18T13:30:25",
-      "volume": 149773
+      "change1Day": -2.010000000000005,
+      "change1DayPercent": -2.2388059701492593,
+      "change1Week": -7.990000000000009,
+      "change1WeekPercent": -8.34377610693401,
+      "ask": 87.78,
+      "askSize": 7,
+      "bid": 87.76,
+      "bidSize": 2,
+      "timeStamp": "2022-11-18T13:43:26",
+      "volume": 158712
     }
   },
   {
