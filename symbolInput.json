@@ -20,7 +20,7 @@
       "change1Week": -8.319999999999709,
       "change1WeekPercent": -0.11265820556601552,
       "timeStamp": "2022-11-21T16:35:30",
-      "volume": 666222634
+      "volume": 666262808
     }
   },
   {
@@ -34,20 +34,20 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 3947.6,
+      "lastPrice": 3955.89,
       "openPrice": 3956.23,
       "high": 3962,
       "low": 3933.34,
       "closePrice": 3965.34,
       "previousClosePrice": 3965.34,
-      "change1Day": -17.740000000000236,
-      "change1DayPercent": -0.4473765175243544,
-      "change1Week": -9.650000000000091,
-      "change1WeekPercent": -0.24385621327942614,
-      "ask": 3948.4300000000003,
-      "bid": 3946.84,
-      "timeStamp": "2022-11-21T17:39:41",
-      "volume": 967148000
+      "change1Day": -9.450000000000273,
+      "change1DayPercent": -0.23831499947041798,
+      "change1Week": -1.3600000000001273,
+      "change1WeekPercent": -0.03436730052435725,
+      "ask": 3956.82,
+      "bid": 3955.25,
+      "timeStamp": "2022-11-21T18:20:26",
+      "volume": 1097441000
     }
   },
   {
@@ -60,19 +60,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.0232,
+      "lastPrice": 1.0231000000000001,
       "openPrice": 1.0315,
       "high": 1.0333,
-      "low": 1.0227,
+      "low": 1.0224,
       "closePrice": 1.0319,
       "previousClosePrice": 1.0319,
-      "change1Day": -0.00869999999999993,
-      "change1DayPercent": -0.8431049520302287,
-      "change1Week": -0.009499999999999842,
-      "change1WeekPercent": -0.9199186598237477,
-      "ask": 1.0236,
-      "bid": 1.0232,
-      "timeStamp": "2022-11-21T17:10:00",
+      "change1Day": -0.008799999999999919,
+      "change1DayPercent": -0.8527958135478165,
+      "change1Week": -0.009599999999999831,
+      "change1WeekPercent": -0.929602014137681,
+      "ask": 1.0235,
+      "bid": 1.0231000000000001,
+      "timeStamp": "2022-11-21T17:59:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.1787,
+      "lastPrice": 1.1793,
       "openPrice": 1.1885000000000001,
       "high": 1.1901000000000002,
       "low": 1.1779,
       "closePrice": 1.1887,
       "previousClosePrice": 1.1887,
-      "change1Day": -0.010000000000000009,
-      "change1DayPercent": -0.8412551526878109,
-      "change1Week": 0.0033000000000000806,
-      "change1WeekPercent": 0.28075548749362605,
-      "ask": 1.1788,
-      "bid": 1.1787,
-      "timeStamp": "2022-11-21T17:10:00",
+      "change1Day": -0.009400000000000075,
+      "change1DayPercent": -0.7907798435265478,
+      "change1Week": 0.0039000000000000146,
+      "change1WeekPercent": 0.33180193976518757,
+      "ask": 1.1794,
+      "bid": 1.1793,
+      "timeStamp": "2022-11-21T17:59:00",
       "volume": 0
     }
   },
@@ -113,21 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 86.54,
+      "lastPrice": 87.55,
       "openPrice": 87.74,
       "high": 87.98,
       "low": 82.31,
+      "closePrice": 87.62,
       "previousClosePrice": 87.62,
-      "change1Day": -1.0799999999999983,
-      "change1DayPercent": -1.232595297877195,
-      "change1Week": -5.959999999999994,
-      "change1WeekPercent": -6.443243243243236,
-      "ask": 86.54,
-      "askSize": 31,
-      "bid": 86.52,
+      "change1Day": -0.07000000000000739,
+      "change1DayPercent": -0.07989043597353046,
+      "change1Week": -4.950000000000003,
+      "change1WeekPercent": -5.351351351351354,
+      "ask": 87.56,
+      "askSize": 6,
+      "bid": 87.54,
       "bidSize": 6,
-      "timeStamp": "2022-11-21T17:39:41",
-      "volume": 292884
+      "timeStamp": "2022-11-21T18:20:23",
+      "volume": 311366
     }
   },
   {
