@@ -60,19 +60,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.0412000000000001,
+      "lastPrice": 1.0408,
       "openPrice": 1.0407,
       "high": 1.0415,
       "low": 1.0397,
       "closePrice": 1.0408,
       "previousClosePrice": 1.0408,
-      "change1Day": 0.000400000000000178,
-      "change1DayPercent": 0.038431975403552844,
-      "change1Week": 0.008750000000000036,
-      "change1WeekPercent": 0.8474986682163819,
-      "ask": 1.0416,
-      "bid": 1.0412000000000001,
-      "timeStamp": "2022-11-25T03:09:00",
+      "change1Day": 0,
+      "change1DayPercent": 0,
+      "change1Week": 0.008349999999999858,
+      "change1WeekPercent": 0.8087558719550445,
+      "ask": 1.0413000000000001,
+      "bid": 1.0408,
+      "timeStamp": "2022-11-25T03:19:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.2107,
+      "lastPrice": 1.2106000000000001,
       "openPrice": 1.2108,
       "high": 1.2117,
       "low": 1.2098,
       "closePrice": 1.211,
       "previousClosePrice": 1.211,
-      "change1Day": -0.00029999999999996696,
-      "change1DayPercent": -0.02477291494632262,
-      "change1Week": 0.02190000000000003,
-      "change1WeekPercent": 1.8421938088829095,
-      "ask": 1.2111,
-      "bid": 1.2107,
-      "timeStamp": "2022-11-25T03:09:00",
+      "change1Day": -0.00039999999999995595,
+      "change1DayPercent": -0.0330305532617635,
+      "change1Week": 0.02180000000000004,
+      "change1WeekPercent": 1.8337819650067329,
+      "ask": 1.2108,
+      "bid": 1.2106000000000001,
+      "timeStamp": "2022-11-25T03:19:00",
       "volume": 0
     }
   },
@@ -123,12 +123,12 @@
       "change1DayPercent": 0.199203187250998,
       "change1Week": -2.2299999999999898,
       "change1WeekPercent": -2.541600182356952,
-      "ask": 85.5,
-      "askSize": 5,
-      "bid": 85.47,
+      "ask": 85.52,
+      "askSize": 7,
+      "bid": 85.49,
       "bidSize": 2,
       "timeStamp": "2022-11-25T03:32:18",
-      "volume": 998
+      "volume": 1015
     }
   },
   {
