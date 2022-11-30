@@ -44,10 +44,10 @@
       "change1DayPercent": 3.094781472750106,
       "change1Week": 52.84999999999991,
       "change1WeekPercent": 1.312306630314405,
-      "ask": 4142.77,
-      "bid": 4004.08,
-      "timeStamp": "2022-11-30T21:10:19",
-      "volume": 3539642000
+      "ask": 4134.2,
+      "bid": 4026.25,
+      "timeStamp": "2022-11-30T21:20:01",
+      "volume": 3585186000
     }
   },
   {
@@ -60,19 +60,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.0414,
+      "lastPrice": 1.0406,
       "openPrice": 1.0327,
       "high": 1.0426,
       "low": 1.0291000000000001,
       "closePrice": 1.0327,
       "previousClosePrice": 1.0327,
-      "change1Day": 0.008700000000000152,
-      "change1DayPercent": 0.8424518253123029,
-      "change1Week": 0.0017500000000001403,
-      "change1WeekPercent": 0.16832587890156692,
-      "ask": 1.0418,
-      "bid": 1.0414,
-      "timeStamp": "2022-11-30T20:49:00",
+      "change1Day": 0.007900000000000018,
+      "change1DayPercent": 0.7649849908008152,
+      "change1Week": 0.0009500000000000064,
+      "change1WeekPercent": 0.09137690568941532,
+      "ask": 1.0410000000000001,
+      "bid": 1.0406,
+      "timeStamp": "2022-11-30T20:59:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.2071,
+      "lastPrice": 1.2054,
       "openPrice": 1.1949,
       "high": 1.2087,
       "low": 1.1901000000000002,
       "closePrice": 1.1953,
       "previousClosePrice": 1.1953,
-      "change1Day": 0.011800000000000033,
-      "change1DayPercent": 0.9871998661423937,
-      "change1Week": 0.0017000000000000348,
-      "change1WeekPercent": 0.1410320225651265,
-      "ask": 1.2075,
-      "bid": 1.2071,
-      "timeStamp": "2022-11-30T20:49:00",
+      "change1Day": 0.010099999999999998,
+      "change1DayPercent": 0.8449761566134023,
+      "change1Week": 0,
+      "change1WeekPercent": 0,
+      "ask": 1.2058,
+      "bid": 1.2054,
+      "timeStamp": "2022-11-30T20:59:00",
       "volume": 0
     }
   },
