@@ -72,7 +72,7 @@
       "change1WeekPercent": 1.2695969991343539,
       "ask": 1.0533000000000001,
       "bid": 1.0529,
-      "timeStamp": "2022-12-02T06:19:00",
+      "timeStamp": "2022-12-02T06:40:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.2235,
+      "lastPrice": 1.2234,
       "openPrice": 1.2252,
       "high": 1.2278,
       "low": 1.2226000000000001,
       "closePrice": 1.2253,
       "previousClosePrice": 1.2253,
-      "change1Day": -0.0018000000000000238,
-      "change1DayPercent": -0.14690279931445555,
-      "change1Week": 0.014000000000000012,
-      "change1WeekPercent": 1.1575031004547345,
-      "ask": 1.2239,
-      "bid": 1.2235,
-      "timeStamp": "2022-12-02T06:20:00",
+      "change1Day": -0.0019000000000000128,
+      "change1DayPercent": -0.1550640659430354,
+      "change1Week": 0.013900000000000023,
+      "change1WeekPercent": 1.1492352211657728,
+      "ask": 1.2238,
+      "bid": 1.2234,
+      "timeStamp": "2022-12-02T06:40:00",
       "volume": 0
     }
   },
@@ -113,22 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 87.04,
+      "lastPrice": 86.82000000000001,
       "openPrice": 86.9,
       "high": 87.4,
       "low": 86.59,
       "closePrice": 86.88,
       "previousClosePrice": 86.88,
-      "change1Day": 0.1600000000000108,
-      "change1DayPercent": 0.18416206261511373,
-      "change1Week": 3.1300000000000097,
-      "change1WeekPercent": 3.7301871052318076,
-      "ask": 87.05,
-      "askSize": 1,
-      "bid": 87.03,
-      "bidSize": 10,
-      "timeStamp": "2022-12-02T06:39:42",
-      "volume": 8970
+      "change1Day": -0.05999999999998806,
+      "change1DayPercent": -0.06906077348064925,
+      "change1Week": 2.910000000000011,
+      "change1WeekPercent": 3.4680014301036954,
+      "ask": 86.82000000000001,
+      "askSize": 2,
+      "bid": 86.81,
+      "bidSize": 6,
+      "timeStamp": "2022-12-02T07:09:02",
+      "volume": 9755
     }
   },
   {
