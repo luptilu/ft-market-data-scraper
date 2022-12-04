@@ -61,7 +61,9 @@
     },
     "quote": {
       "lastPrice": 1.0538,
-      "openPrice": 0,
+      "openPrice": 1.0538,
+      "high": 1.0538,
+      "low": 1.0538,
       "closePrice": 1.0530000000000002,
       "previousClosePrice": 1.0530000000000002,
       "change1Day": 0.0007999999999999119,
@@ -85,7 +87,9 @@
     },
     "quote": {
       "lastPrice": 1.2287000000000001,
-      "openPrice": 0,
+      "openPrice": 1.2287000000000001,
+      "high": 1.2287000000000001,
+      "low": 1.2287000000000001,
       "closePrice": 1.2287000000000001,
       "previousClosePrice": 1.2287000000000001,
       "change1Day": 0,
