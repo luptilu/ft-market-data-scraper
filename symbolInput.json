@@ -72,7 +72,7 @@
       "change1WeekPercent": 0.3320683111954515,
       "ask": 1.0579,
       "bid": 1.0575,
-      "timeStamp": "2022-12-09T06:40:00",
+      "timeStamp": "2022-12-09T07:00:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.2265000000000001,
+      "lastPrice": 1.2258,
       "openPrice": 1.2231,
       "high": 1.2276,
       "low": 1.2228,
       "closePrice": 1.2233,
       "previousClosePrice": 1.2233,
-      "change1Day": 0.0032000000000000917,
-      "change1DayPercent": 0.26158750919644336,
-      "change1Week": -0.002649999999999819,
-      "change1WeekPercent": -0.21559614367650973,
-      "ask": 1.2269,
-      "bid": 1.2265000000000001,
-      "timeStamp": "2022-12-09T06:40:00",
+      "change1Day": 0.0024999999999999467,
+      "change1DayPercent": 0.20436524155971117,
+      "change1Week": -0.003349999999999964,
+      "change1WeekPercent": -0.27254606842126383,
+      "ask": 1.2262,
+      "bid": 1.2258,
+      "timeStamp": "2022-12-09T07:00:00",
       "volume": 0
     }
   },
@@ -113,22 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 76.7,
+      "lastPrice": 76.67,
       "openPrice": 76.63,
       "high": 77,
       "low": 76.41,
       "closePrice": 76.15,
       "previousClosePrice": 76.15,
-      "change1Day": 0.5499999999999972,
-      "change1DayPercent": 0.7222586999343363,
-      "change1Week": -8.719999999999999,
-      "change1WeekPercent": -10.208382111917583,
-      "ask": 76.72,
-      "askSize": 7,
-      "bid": 76.69,
+      "change1Day": 0.519999999999996,
+      "change1DayPercent": 0.6828627708470072,
+      "change1Week": -8.75,
+      "change1WeekPercent": -10.24350269257785,
+      "ask": 76.69,
+      "askSize": 12,
+      "bid": 76.67,
       "bidSize": 2,
-      "timeStamp": "2022-12-09T07:09:03",
-      "volume": 9083
+      "timeStamp": "2022-12-09T07:20:16",
+      "volume": 9668
     }
   },
   {
@@ -141,16 +141,16 @@
       "bridgeExchangeCode": "XXBR"
     },
     "quote": {
-      "lastPrice": 3.409,
-      "openPrice": 3.409,
-      "high": 3.409,
-      "low": 3.409,
-      "previousClosePrice": 3.52,
-      "change1Day": -0.11100000000000021,
-      "change1DayPercent": -3.153409090909097,
-      "change1Week": -0.06500000000000039,
-      "change1WeekPercent": -1.871042026482452,
-      "timeStamp": "2022-12-07T05:00:00",
+      "lastPrice": 3.484,
+      "openPrice": 3.484,
+      "high": 3.484,
+      "low": 3.484,
+      "previousClosePrice": 3.409,
+      "change1Day": 0.07500000000000018,
+      "change1DayPercent": 2.2000586682311583,
+      "change1Week": 0.009999999999999787,
+      "change1WeekPercent": 0.28785261945883095,
+      "timeStamp": "2022-12-08T05:00:00",
       "volume": 0
     }
   }
