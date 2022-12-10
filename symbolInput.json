@@ -114,15 +114,17 @@
     },
     "quote": {
       "lastPrice": 76.10000000000001,
-      "openPrice": 0,
+      "openPrice": 76.63,
+      "high": 77.48,
+      "low": 75.11,
       "closePrice": 76.10000000000001,
       "previousClosePrice": 76.10000000000001,
-      "change1Day": 0,
-      "change1DayPercent": 0,
+      "change1Day": 0.30999999999998806,
+      "change1DayPercent": 0.4051757940138388,
       "change1Week": -9.319999999999993,
       "change1WeekPercent": -10.910793725122915,
       "timeStamp": "2022-12-09T22:49:00",
-      "volume": 0
+      "volume": 216497
     }
   },
   {
