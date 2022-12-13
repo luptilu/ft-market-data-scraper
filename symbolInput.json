@@ -10,17 +10,17 @@
       "currency": "GBP"
     },
     "quote": {
-      "lastPrice": 7465.22,
+      "lastPrice": 7473.28,
       "openPrice": 7445.97,
-      "high": 7481.77,
+      "high": 7533.47,
       "low": 7428.9800000000005,
       "previousClosePrice": 7445.97,
-      "change1Day": 19.25,
-      "change1DayPercent": 0.25852911037782855,
-      "change1Week": -56.17000000000007,
-      "change1WeekPercent": -0.7468034498942359,
-      "timeStamp": "2022-12-13T13:13:36",
-      "volume": 184122946
+      "change1Day": 27.30999999999949,
+      "change1DayPercent": 0.3667755846451099,
+      "change1Week": -48.11000000000058,
+      "change1WeekPercent": -0.63964240652327,
+      "timeStamp": "2022-12-13T13:35:09",
+      "volume": 211801486
     }
   },
   {
@@ -39,15 +39,15 @@
       "high": 3990.71,
       "low": 3935.3,
       "closePrice": 3990.56,
-      "previousClosePrice": 3934.38,
+      "previousClosePrice": 3990.56,
       "change1Day": 56.179999999999836,
       "change1DayPercent": 1.4279251114533886,
       "change1Week": -8.2800000000002,
       "change1WeekPercent": -0.20706004741375497,
-      "ask": 4016.63,
-      "bid": 3962.01,
+      "ask": 4114.87,
+      "bid": 4013.42,
       "timeStamp": "2022-12-12T22:28:46",
-      "volume": 2285905000
+      "volume": 2285904829000
     }
   },
   {
@@ -60,19 +60,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.0548,
+      "lastPrice": 1.0561,
       "openPrice": 1.0532000000000001,
-      "high": 1.056,
+      "high": 1.0561,
       "low": 1.0529,
       "closePrice": 1.0535,
       "previousClosePrice": 1.0535,
-      "change1Day": 0.0012999999999998568,
-      "change1DayPercent": 0.12339819648788389,
-      "change1Week": 0.007800000000000029,
-      "change1WeekPercent": 0.7449856733524384,
-      "ask": 1.0552000000000001,
-      "bid": 1.0548,
-      "timeStamp": "2022-12-13T12:49:00",
+      "change1Day": 0.0025999999999999357,
+      "change1DayPercent": 0.24679639297578884,
+      "change1Week": 0.009100000000000108,
+      "change1WeekPercent": 0.8691499522445185,
+      "ask": 1.0562,
+      "bid": 1.0561,
+      "timeStamp": "2022-12-13T13:20:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.2304000000000002,
+      "lastPrice": 1.2311,
       "openPrice": 1.2272,
-      "high": 1.2306000000000001,
+      "high": 1.2311,
       "low": 1.2249,
       "closePrice": 1.227,
       "previousClosePrice": 1.227,
-      "change1Day": 0.0034000000000000696,
-      "change1DayPercent": 0.2770986145069331,
-      "change1Week": 0.016550000000000065,
-      "change1WeekPercent": 1.3634304073814774,
-      "ask": 1.2306000000000001,
-      "bid": 1.2304000000000002,
-      "timeStamp": "2022-12-13T12:50:00",
+      "change1Day": 0.0040999999999999925,
+      "change1DayPercent": 0.3341483292583531,
+      "change1Week": 0.017249999999999988,
+      "change1WeekPercent": 1.42109815875108,
+      "ask": 1.2312,
+      "bid": 1.2311,
+      "timeStamp": "2022-12-13T13:20:00",
       "volume": 0
     }
   },
@@ -113,22 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 78.72,
+      "lastPrice": 79.76,
       "openPrice": 78.13,
-      "high": 79.60000000000001,
+      "high": 79.84,
       "low": 78.10000000000001,
       "closePrice": 77.99,
       "previousClosePrice": 77.99,
-      "change1Day": 0.730000000000004,
-      "change1DayPercent": 0.9360174381330991,
-      "change1Week": -1,
-      "change1WeekPercent": -1.254390366281987,
-      "ask": 78.72,
-      "askSize": 1,
-      "bid": 78.7,
-      "bidSize": 6,
-      "timeStamp": "2022-12-13T13:18:36",
-      "volume": 77758
+      "change1Day": 1.7700000000000102,
+      "change1DayPercent": 2.2695217335555973,
+      "change1Week": 0.04000000000000625,
+      "change1WeekPercent": 0.05017561465128732,
+      "ask": 79.77,
+      "askSize": 7,
+      "bid": 79.75,
+      "bidSize": 2,
+      "timeStamp": "2022-12-13T13:40:09",
+      "volume": 87132
     }
   },
   {
