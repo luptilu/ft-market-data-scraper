@@ -60,19 +60,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.0624,
+      "lastPrice": 1.0635000000000001,
       "openPrice": 1.0631000000000002,
       "high": 1.0638,
       "low": 1.0621,
       "closePrice": 1.063,
       "previousClosePrice": 1.063,
-      "change1Day": -0.0005999999999999339,
-      "change1DayPercent": -0.05644402634053941,
-      "change1Week": 0.011800000000000033,
-      "change1WeekPercent": 1.1231677136874199,
-      "ask": 1.0628,
-      "bid": 1.0624,
-      "timeStamp": "2022-12-14T05:49:00",
+      "change1Day": 0.000500000000000167,
+      "change1DayPercent": 0.047036688617137064,
+      "change1Week": 0.012900000000000134,
+      "change1WeekPercent": 1.2278697886921885,
+      "ask": 1.0639,
+      "bid": 1.0635000000000001,
+      "timeStamp": "2022-12-14T06:19:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.2352,
+      "lastPrice": 1.2359,
       "openPrice": 1.2357,
       "high": 1.2382,
       "low": 1.2343,
       "closePrice": 1.2354,
       "previousClosePrice": 1.2354,
-      "change1Day": -0.00019999999999997797,
-      "change1DayPercent": -0.016189088554312607,
-      "change1Week": 0.015100000000000113,
-      "change1WeekPercent": 1.2376034751249991,
-      "ask": 1.2355,
-      "bid": 1.2352,
-      "timeStamp": "2022-12-14T05:49:00",
+      "change1Day": 0.0004999999999999449,
+      "change1DayPercent": 0.04047272138578152,
+      "change1Week": 0.015800000000000036,
+      "change1WeekPercent": 1.2949758216539657,
+      "ask": 1.2367000000000001,
+      "bid": 1.2359,
+      "timeStamp": "2022-12-14T06:20:00",
       "volume": 0
     }
   },
@@ -113,22 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 80.3,
+      "lastPrice": 80.31,
       "openPrice": 80.35000000000001,
       "high": 80.61,
       "low": 80.11,
       "closePrice": 80.68,
       "previousClosePrice": 80.68,
-      "change1Day": -0.38000000000000966,
-      "change1DayPercent": -0.47099652949926823,
-      "change1Week": 2.9099999999999966,
-      "change1WeekPercent": 3.7601757332988712,
-      "ask": 80.31,
-      "askSize": 1,
+      "change1Day": -0.37000000000000455,
+      "change1DayPercent": -0.4586018839861236,
+      "change1Week": 2.9200000000000017,
+      "change1WeekPercent": 3.773097299392689,
+      "ask": 80.33,
+      "askSize": 10,
       "bid": 80.3,
-      "bidSize": 2,
-      "timeStamp": "2022-12-14T06:17:21",
-      "volume": 4840
+      "bidSize": 10,
+      "timeStamp": "2022-12-14T06:39:51",
+      "volume": 5303
     }
   },
   {
