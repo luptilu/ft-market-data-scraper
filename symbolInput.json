@@ -44,10 +44,10 @@
       "change1DayPercent": -2.492165834025814,
       "change1Week": -67.76000000000022,
       "change1WeekPercent": -1.7095957875721322,
-      "ask": 3964.87,
-      "bid": 3836.06,
-      "timeStamp": "2022-12-15T21:05:58",
-      "volume": 2644750000
+      "ask": 3961.31,
+      "bid": 3828.82,
+      "timeStamp": "2022-12-15T21:20:01",
+      "volume": 2686597000
     }
   },
   {
@@ -70,9 +70,9 @@
       "change1DayPercent": -0.5523310241527819,
       "change1Week": 0.006599999999999939,
       "change1WeekPercent": 0.6251776072747882,
-      "ask": 1.0627,
+      "ask": 1.0629,
       "bid": 1.0623,
-      "timeStamp": "2022-12-15T20:39:00",
+      "timeStamp": "2022-12-15T21:00:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.2188,
+      "lastPrice": 1.2176,
       "openPrice": 1.2424,
       "high": 1.2431,
       "low": 1.2157,
       "closePrice": 1.2421,
       "previousClosePrice": 1.2421,
-      "change1Day": -0.023299999999999876,
-      "change1DayPercent": -1.8758554061669654,
-      "change1Week": -0.0046999999999999265,
-      "change1WeekPercent": -0.3841438496117635,
-      "ask": 1.2192,
-      "bid": 1.2188,
-      "timeStamp": "2022-12-15T20:29:00",
+      "change1Day": -0.024499999999999966,
+      "change1DayPercent": -1.9724659850253576,
+      "change1Week": -0.005900000000000016,
+      "change1WeekPercent": -0.482223130363712,
+      "ask": 1.218,
+      "bid": 1.2176,
+      "timeStamp": "2022-12-15T20:59:00",
       "volume": 0
     }
   },
@@ -113,22 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 81.31,
+      "lastPrice": 81.37,
       "openPrice": 82.76,
       "high": 83.18,
       "low": 80.83,
       "closePrice": 81.21000000000001,
       "previousClosePrice": 82.7,
-      "change1Day": -1.3900000000000006,
-      "change1DayPercent": -1.680773881499396,
-      "change1Week": 4.799999999999997,
-      "change1WeekPercent": 6.273689713762903,
-      "ask": 81.35000000000001,
-      "askSize": 12,
-      "bid": 81.32000000000001,
-      "bidSize": 19,
-      "timeStamp": "2022-12-15T21:05:15",
-      "volume": 190888
+      "change1Day": -1.3299999999999983,
+      "change1DayPercent": -1.608222490931074,
+      "change1Week": 4.859999999999999,
+      "change1WeekPercent": 6.352110835184942,
+      "ask": 81.37,
+      "askSize": 6,
+      "bid": 81.36,
+      "bidSize": 4,
+      "timeStamp": "2022-12-15T21:20:03",
+      "volume": 191257
     }
   },
   {
