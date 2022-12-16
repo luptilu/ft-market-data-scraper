@@ -72,7 +72,7 @@
       "change1WeekPercent": 1.0634257500949582,
       "ask": 1.0648,
       "bid": 1.0644,
-      "timeStamp": "2022-12-16T04:59:00",
+      "timeStamp": "2022-12-16T05:20:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.2213,
+      "lastPrice": 1.2211,
       "openPrice": 1.2178,
       "high": 1.2223000000000002,
       "low": 1.2177,
       "closePrice": 1.2176,
       "previousClosePrice": 1.2176,
-      "change1Day": 0.0037000000000000366,
-      "change1DayPercent": 0.3038764783180056,
-      "change1Week": -0.0043999999999999595,
-      "change1WeekPercent": -0.35897854287345676,
+      "change1Day": 0.0035000000000000586,
+      "change1DayPercent": 0.28745072273325056,
+      "change1Week": -0.0045999999999999375,
+      "change1WeekPercent": -0.37529574936770316,
       "ask": 1.2215,
-      "bid": 1.2213,
-      "timeStamp": "2022-12-16T04:59:00",
+      "bid": 1.2211,
+      "timeStamp": "2022-12-16T05:19:00",
       "volume": 0
     }
   },
@@ -113,22 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 80.92,
+      "lastPrice": 80.98,
       "openPrice": 81.32000000000001,
       "high": 81.78,
-      "low": 80.89,
+      "low": 80.81,
       "closePrice": 81.21000000000001,
       "previousClosePrice": 81.21000000000001,
-      "change1Day": -0.29000000000000625,
-      "change1DayPercent": -0.35709887944835145,
-      "change1Week": 4.1000000000000085,
-      "change1WeekPercent": 5.3371517833897535,
-      "ask": 80.94,
-      "askSize": 10,
-      "bid": 80.91,
-      "bidSize": 4,
-      "timeStamp": "2022-12-16T05:18:23",
-      "volume": 4188
+      "change1Day": -0.23000000000000398,
+      "change1DayPercent": -0.2832163526659327,
+      "change1Week": 4.160000000000011,
+      "change1WeekPercent": 5.415256443634485,
+      "ask": 80.99,
+      "askSize": 4,
+      "bid": 80.97,
+      "bidSize": 1,
+      "timeStamp": "2022-12-16T05:40:12",
+      "volume": 4987
     }
   },
   {
