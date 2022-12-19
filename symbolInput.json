@@ -10,17 +10,17 @@
       "currency": "GBP"
     },
     "quote": {
-      "lastPrice": 7362.39,
+      "lastPrice": 7367.08,
       "openPrice": 7332.12,
       "high": 7369.08,
       "low": 7332.12,
       "previousClosePrice": 7332.12,
-      "change1Day": 30.270000000000437,
-      "change1DayPercent": 0.41284103369830877,
-      "change1Week": -83.57999999999993,
-      "change1WeekPercent": -1.1224863919677346,
-      "timeStamp": "2022-12-19T09:05:31",
-      "volume": 35029023
+      "change1Day": 34.960000000000036,
+      "change1DayPercent": 0.4768061624741553,
+      "change1Week": -78.89000000000033,
+      "change1WeekPercent": -1.0594992996211416,
+      "timeStamp": "2022-12-19T09:13:06",
+      "volume": 37478295
     }
   },
   {
@@ -122,12 +122,12 @@
       "change1DayPercent": 0.8729757085020213,
       "change1Week": 1.710000000000008,
       "change1WeekPercent": 2.1917457062291823,
-      "ask": 79.74,
-      "askSize": 7,
+      "ask": 79.73,
+      "askSize": 1,
       "bid": 79.72,
       "bidSize": 2,
-      "timeStamp": "2022-12-19T09:10:32",
-      "volume": 33157
+      "timeStamp": "2022-12-19T09:18:04",
+      "volume": 33794
     }
   },
   {
