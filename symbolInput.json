@@ -72,7 +72,7 @@
       "change1WeekPercent": -0.6505967704188897,
       "ask": 1.0619,
       "bid": 1.0613000000000001,
-      "timeStamp": "2022-12-21T03:20:00",
+      "timeStamp": "2022-12-21T03:49:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.2165000000000001,
+      "lastPrice": 1.2168,
       "openPrice": 1.2179,
       "high": 1.2192,
       "low": 1.2162,
       "closePrice": 1.2181,
       "previousClosePrice": 1.2181,
-      "change1Day": -0.0015999999999998238,
-      "change1DayPercent": -0.13135210573843065,
-      "change1Week": -0.025799999999999823,
-      "change1WeekPercent": -2.07679304515816,
-      "ask": 1.2166000000000001,
-      "bid": 1.2165000000000001,
-      "timeStamp": "2022-12-21T03:19:00",
+      "change1Day": -0.0012999999999998568,
+      "change1DayPercent": -0.10672358591247491,
+      "change1Week": -0.025499999999999856,
+      "change1WeekPercent": -2.0526442888191143,
+      "ask": 1.217,
+      "bid": 1.2168,
+      "timeStamp": "2022-12-21T03:49:00",
       "volume": 0
     }
   },
@@ -113,22 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 80.06,
+      "lastPrice": 79.98,
       "openPrice": 79.94,
       "high": 80.35000000000001,
       "low": 79.91,
       "closePrice": 79.99,
       "previousClosePrice": 79.99,
-      "change1Day": 0.07000000000000739,
-      "change1DayPercent": 0.08751093886736766,
-      "change1Week": -2.739999999999995,
-      "change1WeekPercent": -3.3091787439613465,
-      "ask": 80.07000000000001,
-      "askSize": 2,
-      "bid": 80.05,
-      "bidSize": 5,
-      "timeStamp": "2022-12-21T03:40:06",
-      "volume": 2454
+      "change1Day": -0.009999999999990905,
+      "change1DayPercent": -0.012501562695325548,
+      "change1Week": -2.819999999999993,
+      "change1WeekPercent": -3.4057971014492674,
+      "ask": 79.99,
+      "askSize": 6,
+      "bid": 79.97,
+      "bidSize": 2,
+      "timeStamp": "2022-12-21T04:15:24",
+      "volume": 2942
     }
   },
   {
