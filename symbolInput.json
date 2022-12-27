@@ -60,19 +60,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.0661,
+      "lastPrice": 1.0653000000000001,
       "openPrice": 1.0636,
       "high": 1.0667,
       "low": 1.0632000000000001,
       "closePrice": 1.0635000000000001,
       "previousClosePrice": 1.0635000000000001,
-      "change1Day": 0.0025999999999999357,
-      "change1DayPercent": 0.2444757874941171,
-      "change1Week": 0.003850000000000131,
-      "change1WeekPercent": 0.3624382207578377,
-      "ask": 1.0665,
-      "bid": 1.0661,
-      "timeStamp": "2022-12-27T07:20:00",
+      "change1Day": 0.0018000000000000238,
+      "change1DayPercent": 0.1692524682651644,
+      "change1Week": 0.003050000000000219,
+      "change1WeekPercent": 0.2871263826782979,
+      "ask": 1.0657,
+      "bid": 1.0653000000000001,
+      "timeStamp": "2022-12-27T07:50:00",
       "volume": 0
     }
   },
@@ -98,7 +98,7 @@
       "change1WeekPercent": -0.6976935073462983,
       "ask": 1.2102000000000002,
       "bid": 1.2098,
-      "timeStamp": "2022-12-27T07:20:00",
+      "timeStamp": "2022-12-27T07:49:00",
       "volume": 0
     }
   },
@@ -113,22 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 84.26,
+      "lastPrice": 83.66,
       "openPrice": 84.5,
       "high": 84.81,
-      "low": 84.18,
+      "low": 83.65,
       "closePrice": 83.92,
       "previousClosePrice": 83.92,
-      "change1Day": 0.3400000000000034,
-      "change1DayPercent": 0.40514775977121475,
-      "change1Week": 5,
-      "change1WeekPercent": 6.308352258390108,
-      "ask": 84.28,
-      "askSize": 3,
-      "bid": 84.25,
-      "bidSize": 5,
-      "timeStamp": "2022-12-27T07:40:00",
-      "volume": 4977
+      "change1Day": -0.2600000000000051,
+      "change1DayPercent": -0.30981887511916717,
+      "change1Week": 4.3999999999999915,
+      "change1WeekPercent": 5.551349987383285,
+      "ask": 83.69,
+      "askSize": 2,
+      "bid": 83.67,
+      "bidSize": 2,
+      "timeStamp": "2022-12-27T08:15:30",
+      "volume": 7514
     }
   },
   {
