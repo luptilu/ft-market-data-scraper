@@ -60,19 +60,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.0656,
+      "lastPrice": 1.0662,
       "openPrice": 1.0636,
-      "high": 1.0667,
+      "high": 1.0669,
       "low": 1.0632000000000001,
       "closePrice": 1.0635000000000001,
       "previousClosePrice": 1.0635000000000001,
-      "change1Day": 0.0020999999999999908,
-      "change1DayPercent": 0.19746121297602168,
-      "change1Week": 0.003350000000000186,
-      "change1WeekPercent": 0.31536832195812536,
-      "ask": 1.066,
-      "bid": 1.0656,
-      "timeStamp": "2022-12-27T10:19:00",
+      "change1Day": 0.0026999999999999247,
+      "change1DayPercent": 0.2538787023977362,
+      "change1Week": 0.00395000000000012,
+      "change1WeekPercent": 0.37185220051778023,
+      "ask": 1.0666,
+      "bid": 1.0662,
+      "timeStamp": "2022-12-27T10:39:00",
       "volume": 0
     }
   },
@@ -98,7 +98,7 @@
       "change1WeekPercent": -1.017811704834603,
       "ask": 1.2067,
       "bid": 1.2059,
-      "timeStamp": "2022-12-27T10:19:00",
+      "timeStamp": "2022-12-27T10:39:00",
       "volume": 0
     }
   },
@@ -113,22 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 84.91,
+      "lastPrice": 84.8,
       "openPrice": 84.5,
       "high": 84.95,
       "low": 83.65,
       "closePrice": 83.92,
       "previousClosePrice": 83.92,
-      "change1Day": 0.9899999999999949,
-      "change1DayPercent": 1.1796949475691074,
-      "change1Week": 5.6499999999999915,
-      "change1WeekPercent": 7.128438051980811,
-      "ask": 84.91,
-      "askSize": 14,
-      "bid": 84.89,
-      "bidSize": 9,
-      "timeStamp": "2022-12-27T10:40:02",
-      "volume": 19281
+      "change1Day": 0.8799999999999955,
+      "change1DayPercent": 1.0486177311725398,
+      "change1Week": 5.539999999999992,
+      "change1WeekPercent": 6.98965430229623,
+      "ask": 84.82000000000001,
+      "askSize": 2,
+      "bid": 84.8,
+      "bidSize": 2,
+      "timeStamp": "2022-12-27T11:06:30",
+      "volume": 20638
     }
   },
   {
