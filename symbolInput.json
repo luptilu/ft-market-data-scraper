@@ -60,19 +60,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.0566,
+      "lastPrice": 1.0565,
       "openPrice": 1.0551000000000001,
       "high": 1.0569,
       "low": 1.0542,
       "closePrice": 1.0546,
       "previousClosePrice": 1.0546,
-      "change1Day": 0.0020000000000000018,
-      "change1DayPercent": 0.18964536317087063,
-      "change1Week": -0.0043999999999999595,
-      "change1WeekPercent": -0.41470311027332324,
-      "ask": 1.0572000000000001,
-      "bid": 1.0566,
-      "timeStamp": "2023-01-04T03:19:00",
+      "change1Day": 0.0019000000000000128,
+      "change1DayPercent": 0.18016309501232816,
+      "change1Week": -0.0044999999999999485,
+      "change1WeekPercent": -0.42412818096135235,
+      "ask": 1.0571000000000002,
+      "bid": 1.0565,
+      "timeStamp": "2023-01-04T03:49:00",
       "volume": 0
     }
   },
@@ -98,7 +98,7 @@
       "change1WeekPercent": -0.22471910112358923,
       "ask": 1.1989,
       "bid": 1.1988,
-      "timeStamp": "2023-01-04T03:20:00",
+      "timeStamp": "2023-01-04T03:50:00",
       "volume": 0
     }
   },
@@ -113,22 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 82.05,
+      "lastPrice": 82.01,
       "openPrice": 82.31,
       "high": 82.72,
       "low": 81.81,
       "closePrice": 82.10000000000001,
       "previousClosePrice": 82.10000000000001,
-      "change1Day": -0.05000000000001137,
-      "change1DayPercent": -0.060901339829490087,
-      "change1Week": -1.0600000000000023,
-      "change1WeekPercent": -1.2754181205631119,
-      "ask": 82.08,
-      "askSize": 5,
-      "bid": 82.05,
-      "bidSize": 11,
-      "timeStamp": "2023-01-04T03:39:58",
-      "volume": 7047
+      "change1Day": -0.09000000000000341,
+      "change1DayPercent": -0.10962241169306139,
+      "change1Week": -1.0999999999999943,
+      "change1WeekPercent": -1.323547106244729,
+      "ask": 82.01,
+      "askSize": 8,
+      "bid": 81.98,
+      "bidSize": 8,
+      "timeStamp": "2023-01-04T04:14:02",
+      "volume": 7452
     }
   },
   {
