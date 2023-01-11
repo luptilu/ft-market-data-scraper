@@ -72,7 +72,7 @@
       "change1WeekPercent": 1.2357324780681171,
       "ask": 1.0736,
       "bid": 1.0732000000000002,
-      "timeStamp": "2023-01-11T03:49:00",
+      "timeStamp": "2023-01-11T04:00:00",
       "volume": 0
     }
   },
@@ -86,19 +86,19 @@
       "bridgeExchangeCode": "CUX"
     },
     "quote": {
-      "lastPrice": 1.2153,
+      "lastPrice": 1.2152,
       "openPrice": 1.2154,
       "high": 1.2164000000000001,
       "low": 1.2142000000000002,
       "closePrice": 1.2155,
       "previousClosePrice": 1.2155,
-      "change1Day": -0.00019999999999997797,
-      "change1DayPercent": -0.016454134101191113,
-      "change1Week": 0.009850000000000136,
-      "change1WeekPercent": 0.8171222365091988,
-      "ask": 1.2154,
-      "bid": 1.2153,
-      "timeStamp": "2023-01-11T03:50:00",
+      "change1Day": -0.00029999999999996696,
+      "change1DayPercent": -0.02468120115178667,
+      "change1Week": 0.009750000000000147,
+      "change1WeekPercent": 0.8088265792857562,
+      "ask": 1.2156,
+      "bid": 1.2152,
+      "timeStamp": "2023-01-11T04:00:00",
       "volume": 0
     }
   },
@@ -113,22 +113,22 @@
       "currency": "USD"
     },
     "quote": {
-      "lastPrice": 79.41,
+      "lastPrice": 79.4,
       "openPrice": 79.52,
       "high": 79.77,
       "low": 79.33,
       "closePrice": 80.10000000000001,
       "previousClosePrice": 80.10000000000001,
-      "change1Day": -0.6900000000000119,
-      "change1DayPercent": -0.8614232209737975,
-      "change1Week": 1.3100000000000023,
-      "change1WeekPercent": 1.677336747759286,
-      "ask": 79.43,
-      "askSize": 5,
-      "bid": 79.41,
+      "change1Day": -0.7000000000000028,
+      "change1DayPercent": -0.8739076154806527,
+      "change1Week": 1.3000000000000114,
+      "change1WeekPercent": 1.6645326504481581,
+      "ask": 79.41,
+      "askSize": 3,
+      "bid": 79.4,
       "bidSize": 1,
-      "timeStamp": "2023-01-11T04:16:02",
-      "volume": 4600
+      "timeStamp": "2023-01-11T04:29:18",
+      "volume": 4640
     }
   },
   {
